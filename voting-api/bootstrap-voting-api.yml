@@ -1,5 +1,5 @@
 # Spring Configuration
-spring.application.name=voting-api-production
+spring.application.name=voting-api
 spring.profiles.active=production
 server.port=8082
 # Actuator
